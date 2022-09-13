@@ -4,18 +4,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeeooo-0%2Fhit-counter&count_bg=%238EE1EA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Who Am I💬
-- 🌱 I’m currently learning 'deep_learning'
-- 📫 I majored in IISE & Computer Engineering
-- 🤔 I'm not good at coding but learning hard
+- 🌱 I’m currently learning 'deep learning'.
+- 📫 I majored in IISE & Computer Engineering.
+- 🤔 I'm not good at coding but learning hard!
 
 
 ### Research Interests🎓
-- deep learning
-- deep reinforcement learning
+- Deep Learning
+- Deep Reinforcement Learning
 
 
 ### Experience⚡
-B.S, Industrial Infromation System Engineering(IISE) Computer Science and Engineering(computer) Seoul National University of Science & Technology
+B.S, Industrial Infromation System Engineering(IISE) &  Computer Science and Engineering(computer) Seoul National University of Science and Technology
 
 
 ### What I Like✨
