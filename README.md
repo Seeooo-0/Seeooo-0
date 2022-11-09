@@ -11,7 +11,8 @@
 
 ### Research Interests🎓
 - Deep Learning
-- Deep Reinforcement Learning
+- Medical Mutli-modal
+- PathVQA
 
 
 ### Experience⚡
